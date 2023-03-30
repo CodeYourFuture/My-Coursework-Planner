@@ -1,6 +1,6 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use the [project board](https://github.com/orgs/CodeYourFuture/projects/8) to manage your work.
+This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use the [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work.
 
 ## 1. How to get set up
 
@@ -22,7 +22,7 @@ We are building a tool to automate this process, but for now you will have to do
 
 ## 3. Refine your tickets and add them to your project board
 
-1. Copy the [example project board](https://github.com/orgs/CodeYourFuture/projects/8)
+1. Copy the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
 2. Link your new project board to your fork of this repo
 3. Add your tickets to the project board
 4. Make your board public in the settings, so your mentors can see it
