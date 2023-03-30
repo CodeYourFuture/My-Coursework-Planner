@@ -1,6 +1,6 @@
 # Welcome to your coursework planner
 
-This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use the [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work.
+This is how you will plan and manage your coursework at CYF. You will add all your work as issues to your fork of this repository, and then use a [project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen) to manage your work. This is broadly how all technical projects are managed, so you will need lots of practice. Get started today.
 
 ## 1. How to get set up
 
