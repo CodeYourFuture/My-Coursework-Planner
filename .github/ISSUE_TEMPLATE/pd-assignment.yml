@@ -1,0 +1,60 @@
+name: PD Coursework
+description: Assign a piece of PD coursework
+title: "[PD] <title>"
+labels: [PD, 🏝 Priority Stretch, 🐇 Size Small]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to assign this coursework!
+  - type: input
+    attributes:
+      label: Link to the coursework
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Estimated time in hours (PD has max 4 per week total)
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: What is the purpose of this assignment?
+      description: Clearly explain the purpose of this assignment and how trainees can evaluate this.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How to submit
+      description: State in clear steps how a trainee can submit this assignment.
+      placeholder: |
+        Copy the Google doc to your own Google Drive
+        Complete the work assigned
+        When you are ready, move your document to your class Drive
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give more context
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you so much.**
+
+        Please now complete this ticket by filling in the options on the sidebar.
+
+        1. Update labels
+        - priority -- is this coursework key, mandatory, or stretch?
+        - size -- help trainees plan their time with rough estimation
+        2. Add to milestone
+        - week 1,2,3,4
+        3. Add to project backlog
+        - add to the project named the same as this repo
+        - fill in custom fields -- priority, size, hours -- to match this issue
+
+        Once your ticket is complete, you may like to check it out on the example project board attached to this repo.
+        This is so you understand how trainees will use your work.

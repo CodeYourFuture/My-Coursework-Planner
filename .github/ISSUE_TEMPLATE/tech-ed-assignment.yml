@@ -1,0 +1,79 @@
+name: Tech Ed Coursework
+description: Assign a piece of technical coursework
+title: "[TECH ED] <title>"
+labels: [Tech Ed, 🏕 Priority Mandatory, 🐂 Size Medium]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to assign this coursework! 
+
+        To support our trainees with planning and prioritising their own learning journey, we want our coursework assignments to be more informative. 
+        We don't just want to tell them what to do, we want to tell them stuff like:
+        - why we are doing it
+        - what it's "for" (problem-solving, debugging, etc)
+        - how long they should spend on it, maximum
+        - how to get help 
+        - how to review it with answers 
+        - how to get it reviewed from mentors and peers
+  - type: input
+    attributes:
+      label: Link to the coursework
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Why are we doing this?
+      description: Clearly explain the purpose of this assignment
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Maximum time in hours (Tech has max 16 per week total)
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How to get help
+      description: State simply how trainees can get help with this assignment
+      placeholder: |
+        Share your blockers in your class channel
+        https://syllabus.codeyourfuture.io/guides/asking-questions
+  - type: textarea
+    attributes:
+      label: How to submit
+      description: State in clear steps how a trainee can submit this assignment.
+      placeholder: |
+        Fork the repo to your own GitHub account
+        Make regular small commits with clear messages
+        When you are ready, open a Pull Request to the CYF repo
+        Make sure you fill in the PR template provided
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How to review
+      description: How to get code review and how to self-review
+  - type: textarea
+    attributes:
+      label: Anything else?
+      description: |
+        Links? References? Anything that will give more context
+
+        Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you so much.**
+
+        Please now complete this ticket by filling in the options on the sidebar.
+
+        1. Update labels
+        - priority -- is this coursework key, mandatory, or stretch? Pick one.
+        - size -- help trainees plan their time with rough estimation. Pick one
+        - topics -- add all that seem relevant to you. 
+        2. Add to milestone
+        - week 1,2,3,4
+
+        Once your ticket is complete, you may like to add it to the example project board attached to this repo.
+        This is so you understand how trainees will use your work. Nobody has built a board copier yet, so trainees will be doing this step themselves.
