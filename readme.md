@@ -13,7 +13,7 @@ You must fork to your personal Github account. Forks created in the CYF org will
 
 Each module has a module repo. The coursework for each module is added as issues to that repository.
 
-1. Go to the module repo. As [Module JavaScript 3] (https://github.com/CodeYourFuture/Module-JS3/issues)
+1. Go to the module repo. As [Module JavaScript 3](https://github.com/CodeYourFuture/Module-JS3/issues)
 2. Click on the `Issues` tab
 3. Copy each issue from the module repo to your own coursework repo.
 
