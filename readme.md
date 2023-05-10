@@ -19,6 +19,8 @@ Each module has a module repo. The coursework for each module is added as issues
 
 We are building a tool to automate this process, but for now you will have to do it manually. We all use the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
 
+Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
+
 ## 3. Refine your tickets and add them to your project board
 
 1. Copy the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
@@ -29,3 +31,5 @@ We are building a tool to automate this process, but for now you will have to do
 There are example project boards attached to each module, showing you ways you can use boards to manage your time, prioritise, scope, and track your work. You should use the _same project board_ all the way through the course, and add to it as you go. Learn as you go, and adapt your board as you learn.
 
 You can, and should, also add your own tickets to the board. Just remember it's a public board, so don't add anything you don't want to share with your mentors.
+
+You can watch [this video](https://www.loom.com/share/825be2e98a5046339500449dbf86ff01) about how to create your coursework-planner board.
