@@ -4,7 +4,7 @@ This is how you will plan and manage your coursework at CYF. You will add all yo
 
 ## 1. How to get set up
 
-1. Fork this repo to your own GitHub
+1. Fork [this repo](https://github.com/CodeYourFuture/Coursework-Planner/) to your own GitHub
 2. Turn on `issues` in the `settings`
 
 You must fork to your personal Github account. Forks created in the CYF org will be deleted by the bot.
