@@ -9,7 +9,7 @@ This is how you will plan and manage your coursework at CYF. You will add all yo
 
 You must fork to your personal Github account. Forks created in the CYF org will be deleted by the bot.
 
-## 2. Every module, add your work as issues
+## 2. Every module, you will add your work as issues
 
 Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/CodeYourFuture/Table-of-Contents).
 
