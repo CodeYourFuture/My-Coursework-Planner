@@ -11,15 +11,23 @@ You must fork to your personal Github account. Forks created in the CYF org will
 
 ## 2. Every module, you will add your work as issues
 
+Each sprint in each module has a Backlog page which lists the work you're expected to do for that module. Every item in the list is actually a GitHub issue.
+
+There is a "Clone" button next to each issue. When you're starting a sprint, clone each of its issues into your coursework planner.
+
+Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
+
+<details>
+<summary>If the Clone button isn't working, expand this for instructions of how to manually clone the issues</summary>
+
 Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/CodeYourFuture/Table-of-Contents).
 
 1. Go to the module repo
 2. Click on the `Issues` tab
 3. Copy each issue from the module repo to your own coursework repo.
 
-We are building a tool to automate this process, but for now you will have to do it manually. We all use the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
-
-Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
+We have also used the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
+</details>
 
 ## 3. Refine your tickets and add them to your project board
 
