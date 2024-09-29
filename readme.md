@@ -8,9 +8,9 @@ This is how you will plan and manage your coursework at CYF. You will add all yo
 
 1. Fork [this repo](https://github.com/CodeYourFuture/My-Coursework-Planner/) to your own GitHub
 ![image](images/fork-planner.png)
-You should see your own GitHub username under `Owner`
+2. You should see your own GitHub username under `Owner`
 ![image](images/create-planner-fork.png)
-2. Turn on `issues` in the `Settings` of your forked version of the repo
+3. Turn on `issues` in the `Settings` of your forked version of the repo
 ![image](images/fork-settings-issues.png)
 
 ***You must fork to your personal Github account. Forks created in the CYF org will be deleted by a bot.***
@@ -20,17 +20,16 @@ You should see your own GitHub username under `Owner`
 1. Go to the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
 2. Click the three-dot menu, and then select `Make a copy`
 ![image](images/project-board-copy.png)
-Make sure your own GitHub username is under `Owner`
+3. Make sure your own GitHub username is under `Owner`
 ![image](images/project-board-copy-form.png)
-3. Make your project board public so your mentors can see your progress
-Open the project board settings
+4. Make your project board public so your mentors can see your progress - open the project board settings
 ![image](images/project-board-settings.png)
-Scroll to the bottom to find the setting to make your board public
+5. Scroll to the bottom to find the setting to make your board public
 ![image](images/project-board-public.png)
 
 #### Linking the My-Coursework-Planner repo to your project board
 1. Go back to your forked version of the My-Coursework-Planner repo
-2. Under `Projects`, click `Link a project` and select your project board.
+2. Under `Projects`, click `Link a project` and select your project board
 ![image](images/link-project-board.png)
 3. That's it! You're ready to start adding issues to your board!
 
