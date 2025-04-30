@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Learn about README files, wireframes, and Git branches.">
+  <title>A Short description on README, Wireframes, and Git Branches</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Basics of Developer Requirements</h1>
+    <p>Your guide to README files, Wireframes, and Git Branches</p>
+  </header>
+
+  <main>
+    <section>
+      <article>
+        <h2>What is the purpose of a README file?</h2>
+        <p>A README file explains what your project is about and how to use it. It is the first impression for anyone visiting your repository.</p>
+        <a href="https://www.makeareadme.com/" target="_blank" rel="noopener noreferrer">Learn more about READMEs</a>
+      </article>
+
+      <article>
+        <h2>What is the purpose of a wireframe?</h2>
+        <p>A wireframe is a simple visual guide to plan the layout and structure of your web page or app before you start coding.</p>
+        <a href="https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe/" target="_blank" rel="noopener noreferrer">Learn more about wireframes</a>
+      </article>
+
+      <article>
+        <h2>What is a branch in Git?</h2>
+        <p>A Git branch is a copy of your codebase where you can safely work on changes, features, or experiments without affecting the main project.</p>
+        <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell" target="_blank" rel="noopener noreferrer">Learn more about Git branches</a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Developer Guide</p>
+  </footer>
+</body>
+</html>
