@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Order Your Clothes</title>
+</head>
+<body>
+
+  <main>
+    <section>
+      <h1>Order Your Favorite T-Shirt</h1>
+
+      <form>
+        <fieldset>
+          <legend>Customer Details</legend>
+
+          <!-- Full Name -->
+          <div>
+            <label for="name">Full Name:</label>
+            <input 
+              type="text" 
+              id="name" 
+              name="name" 
+              required 
+              pattern=".{2,}" 
+              title="Please enter at least 2 characters.">
+          </div>
+
+          <!-- Email Address -->
+          <div>
+            <label for="email">Email Address:</label>
+            <input 
+              type="email" 
+              id="email" 
+              name="email" 
+              required>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>T-Shirt Options</legend>
+
+          <!-- Colour Selection -->
+          <div>
+            <label for="colour">Choose a Colour:</label>
+            <select id="colour" name="colour" required>
+              <option value="">--Please select--</option>
+              <option value="red">Red</option>
+              <option value="blue">Blue</option>
+              <option value="black">Black</option>
+            </select>
+          </div>
+
+          <!-- Size Selection -->
+          <div>
+            <label for="size">Choose a Size:</label>
+            <select id="size" name="size" required>
+              <option value="">--Please select--</option>
+              <option value="XS">XS</option>
+              <option value="S">S</option>
+              <option value="M">M</option>
+              <option value="L">L</option>
+              <option value="XL">XL</option>
+              <option value="XXL">XXL</option>
+            </select>
+          </div>
+        </fieldset>
+
+        <button type="submit">Submit Order</button>
+      </form>
+
+    </section>
+  </main>
+
+</body>
+</html>
