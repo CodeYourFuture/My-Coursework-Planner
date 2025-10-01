@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Controls Project</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Registration Form</h1>
+    <form>
+      <!-- Name -->
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" required minlength="2" placeholder="Enter your full name">
+
+      <!-- Email -->
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required placeholder="example@email.com">
+
+      <!-- Password -->
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required minlength="6" placeholder="Min 6 characters">
+
+      <!-- Age -->
+      <label for="age">Age:</label>
+      <input type="number" id="age" name="age" min="18" max="100" required>
+
+      <!-- Gender -->
+      <label for="gender">Gender:</label>
+      <select id="gender" name="gender" required>
+        <option value="">--Choose one--</option>
+        <option value="female">Female</option>
+        <option value="male">Male</option>
+        <option value="other">Other</option>
+      </select>
+
+      <!-- Radio buttons -->
+      <fieldset>
+        <legend>Preferred Contact Method:</legend>
+        <label><input type="radio" name="contact" value="email" required>Email</label>
+        <label><input type="radio" name="contact" value="phone">Phone</label>
+        <label><input type="radio" name="contact" value="post">Post</label>
+      </fieldset>
+
+      <!-- Checkbox -->
+      <label class="checkbox">
+        <input type="checkbox" name="agree" required>
+        I agree to the Terms & Conditions
+      </label>
+
+      <!-- Submit -->
+      <button type="submit">Submit</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>Form Controls Project – Onboarding Module</p>
+  </footer>
+</body>
+</html>
