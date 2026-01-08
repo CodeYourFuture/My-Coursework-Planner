@@ -22,12 +22,15 @@ This is how you will plan and manage your coursework at CYF. You will add all yo
 ![image](images/cloning-board.png)
 3. Make sure your own GitHub username is under `Owner` and change the name to "Coursework Planner". These steps are **very important**! If either value is incorrect the issues will not be cloned correctly.
 ![image](images/naming-board.png)
-4. If you make a mistake naming your project you can go back and change it later. Hover your cursor over the board's name then click the pen icon which appears. On the next screen you can rename your board to "Coursework Planner" and save your changes.
+4. If you make a mistake naming your project you can go back and change it later. Hover your cursor over the board's name then click the pen icon which appears. 
 ![image](images/board-name-edit-button.png)
+
+On the next screen you can rename your board to "Coursework Planner" and save your changes.
 ![image](images/renaming-board.png)
+
 5. Make your project board public so your mentors can see your progress - open the project board settings
 ![image](images/project-board-settings.png)
-1. Scroll to the bottom to find the setting to make your board public
+6. Scroll to the bottom to find the setting to make your board public
 ![image](images/project-board-public.png)
 
 #### Linking the My-Coursework-Planner repo to your project board
@@ -44,17 +47,7 @@ There is a "Clone" button next to each issue. When you're starting a sprint, clo
 
 Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
 
-<details>
-<summary>If the Clone button isn't working, expand this for instructions of how to manually clone the issues</summary>
-
-Each module has a module repo. The coursework for each module is added as issues to that repository. All the module repos are listed in the [Table of Contents](https://github.com/CodeYourFuture/Table-of-Contents).
-
-1. Go to the module repo
-2. Click on the `Issues` tab
-3. Copy each issue from the module repo to your own coursework repo.
-
-We have also used the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
-</details>
+If the Clone button isn't working you can send a message in Slack asking for help, or speak to a volunteer in class on Saturday.
 
 ## 3. Manage and adapt your project board as you learn
 
