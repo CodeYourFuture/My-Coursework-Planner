@@ -18,19 +18,22 @@ This is how you will plan and manage your coursework at CYF. You will add all yo
 #### Creating your project board
 
 1. Go to the [example project board](https://github.com/CodeYourFuture/Coursework-Planner/projects?query=is%3Aopen)
-2. Click the three-dot menu, and then select `Make a copy`
-![image](images/project-board-copy.png)
-3. Make sure your own GitHub username is under `Owner`
-![image](images/project-board-copy-form.png)
-4. Make your project board public so your mentors can see your progress - open the project board settings
+2. Click the three-dot menu on the `Coursework Planner Board` then select `Make a copy`
+![image](images/cloning-board.png)
+3. Make sure your own GitHub username is under `Owner` and change the name to "Coursework Planner". These steps are **very important**! If either value is incorrect the issues will not be cloned correctly.
+![image](images/naming-board.png)
+4. If you make a mistake naming your project you can go back and change it later. Hover your cursor over the board's name then click the pen icon which appears. On the next screen you can rename your board to "Coursework Planner" and save your changes.
+![image](images/board-name-edit-button.png)
+![image](images/renaming-board.png)
+5. Make your project board public so your mentors can see your progress - open the project board settings
 ![image](images/project-board-settings.png)
-5. Scroll to the bottom to find the setting to make your board public
+1. Scroll to the bottom to find the setting to make your board public
 ![image](images/project-board-public.png)
 
 #### Linking the My-Coursework-Planner repo to your project board
 1. Go back to your forked version of the My-Coursework-Planner repo
 2. Under `Projects`, click `Link a project` and select your project board
-![image](images/link-project-board.png)
+![image](images/linking-project.png)
 3. That's it! You're ready to start adding issues to your board!
 
 ## 2. In every module, you will add your work as issues
